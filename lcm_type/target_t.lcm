@@ -1,0 +1,6 @@
+package target;
+
+struct target_t
+{
+    int16_t target[2];
+}
